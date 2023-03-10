@@ -2,16 +2,19 @@
 ---------------------------
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ---------------------------
+1 - Ouvrir le lien :
 [![Run on Repl.it](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)
 ---------------------------
-1 - Ouvrir le lien : ![image](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)
+2 - Appuyez sur Use Template:
 ![image](https://user-images.githubusercontent.com/123749462/224277876-64fd1460-00c4-468d-a2ac-33a404d663ba.png)
-
-
+---------------------------
+3 - Appuyez sur Use Continue with Github:
 ![image](https://user-images.githubusercontent.com/123749462/224278332-8f4246cb-82bd-4e4b-bb9e-0708749852a8.png)
-
+---------------------------
+4 - Appuyez sur Use Authorize Replit Online IDE:
 ![image](https://user-images.githubusercontent.com/123749462/224278686-e0c96d03-beeb-40c3-a095-146eaf1dff9d.png)
-
+---------------------------
+2 - Appuyez sur Use Template:
 ![image](https://user-images.githubusercontent.com/123749462/224278959-553d1a8c-e3fe-4a37-a402-967eecbc41af.png)
 
 ![image](https://user-images.githubusercontent.com/123749462/224279259-cc9c925e-23f0-4364-affc-9299f5561831.png)
