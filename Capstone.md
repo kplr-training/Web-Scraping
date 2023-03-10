@@ -1,10 +1,6 @@
 # Capstone Project 
 ---------------------------
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
----------------------------
-1 - Ouvrir le lien :
-<br>
-[![Run on Repl.it](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)<br>
+1 - Ouvrir le lien :[![Run on Repl.it](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)<br>
 <br>
 ---------------------------
 2 - Appuyez sur Use Template:<br>
