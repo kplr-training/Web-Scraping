@@ -1,6 +1,9 @@
 # Capstone Project 
 ---------------------------
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+---------------------------
+[![Run on Repl.it](https://repl.it/badge/github/huangsam/ultimate-python)](https://repl.it/github/huangsam/ultimate-python)
+---------------------------
 1 - Ouvrir le lien : ![image](https://replit.com/@yahia-kplr/KplrWebSCRAPINGTemplate?v=1)
 ![image](https://user-images.githubusercontent.com/123749462/224277876-64fd1460-00c4-468d-a2ac-33a404d663ba.png)
 
